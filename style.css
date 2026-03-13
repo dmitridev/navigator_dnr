@@ -26,7 +26,8 @@ main {
     padding: 12px;
 }
 
-a {
+button {
+    border:none;
     text-decoration: none;
     color: white;
     background: #479fff;
